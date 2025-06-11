@@ -36,11 +36,9 @@ Pastikan kamu udah punya Node.js dan npm di sistem kamu.
 
 ```bash
 # 1. Clone repository ini
-git clone https://github.com/tiann-dev/auto-twitter-bot-tianndev.git
-
+git clone https://github.com/Tianndev/auto-post-twitter-tianndev
 # 2. Masuk ke direktori proyek
 cd auto-twitter-bot-tianndev
-
 # 3. Install semua dependencies yang dibutuhkan
 npm install
 ```
@@ -107,17 +105,17 @@ Punya ide lain? Buka issue atau langsung pull request aja!
 
 Kalau bot ini ngebantu kamu, dukungan dalam bentuk apapun bakal berarti banget. Kamu bisa traktir kopi buat nambah semangat ngoding via Saweria:
 
-[![Donasi via Saweria](https://img.shields.io/badge/Donasi-Saweria-orange.svg)](https://saweria.co/tianndev)
+<div style="text-align: center; margin: 20px 0;">
+  <a href="https://saweria.co/tianndev" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://sdmntpreastus.oaiusercontent.com/files/00000000-610c-61f9-9d75-7aeb048a63e8/raw?se=2025-06-11T18%3A01%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=e20e38d6-8a16-5f73-952d-25452a321095&skoid=5cab1ff4-c20d-41dc-babb-df0c2cc21dd4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-11T11%3A36%3A09Z&ske=2025-06-12T11%3A36%3A09Z&sks=b&skv=2024-08-04&sig=pZO/pRT7Sv/HreY/S7dl492t21oiYAuM1ijujxzlABo%3D" 
+      alt="Traktir Kopi via Saweria" 
+      style="width: 300px; max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    />
+  </a>
+</div>
 
 Terima kasih atas dukungannya.
-
-<a href="https://saweria.co/tianndev" target="_blank" rel="noopener noreferrer">
-  <img 
-    src="https://sdmntpreastus.oaiusercontent.com/files/00000000-610c-61f9-9d75-7aeb048a63e8/raw?se=2025-06-11T18%3A01%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=e20e38d6-8a16-5f73-952d-25452a321095&skoid=5cab1ff4-c20d-41dc-babb-df0c2cc21dd4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-11T11%3A36%3A09Z&ske=2025-06-12T11%3A36%3A09Z&sks=b&skv=2024-08-04&sig=pZO/pRT7Sv/HreY/S7dl492t21oiYAuM1ijujxzlABo%3D" 
-    alt="Traktir Kopi via Saweria" 
-    style="width: 300px; max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
-  />
-</a>
 
 ## Lisensi
 
