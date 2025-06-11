@@ -1,6 +1,12 @@
 import 'dotenv/config';
 import { TwitterApi } from 'twitter-api-v2';
 
+console.log("🔧 Checking Twitter API credentials...");
+console.log("TWITTER_API_KEY:", process.env.TWITTER_API_KEY ? "✅" : "❌");
+console.log("TWITTER_API_SECRET:", process.env.TWITTER_API_SECRET ? "✅" : "❌");
+console.log("TWITTER_ACCESS_TOKEN:", process.env.TWITTER_ACCESS_TOKEN ? "✅" : "❌");
+console.log("TWITTER_ACCESS_SECRET:", process.env.TWITTER_ACCESS_SECRET ? "✅" : "❌");
+
 const tianndev_twitterClient = new TwitterApi({
   appKey: process.env.TWITTER_API_KEY,
   appSecret: process.env.TWITTER_API_SECRET,
