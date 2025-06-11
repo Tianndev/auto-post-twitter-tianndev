@@ -10,8 +10,7 @@ on:
 jobs:
   tweet:
     runs-on: ubuntu-latest
-    environment: Tianndev-Ganteng   # ⬅️ Tambahkan ini agar bisa akses Environment Secrets
-
+    environment: Tianndev-Ganteng
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
